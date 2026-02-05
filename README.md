@@ -6,4 +6,11 @@ The cryptocurrency market has experienced significant growth in recent decades, 
 ## Methods‬
 Initially, the time series data of the monthly Bitcoin price will be examined for non-stationarity.‬‭ This will be achieved by employing the autocorrelation function (ACF) and the partial‬‭ autocorrelation function (PACF) plots, as well as the hypothesis test. The Dickey-Fuller unit-root‬‭ test, the Phillips–Perron test and the KPSS test will be utilised in this endeavour. Secondly, the‬ series was confirmed to be normal by applying the QQ plot and the Shapiro-Wilk test. In‬ instances where the series exhibits nonstationarity, a transformation and differencing process is‬ implemented to ascertain the series' stationarity prior to model specification.‬ Following the confirmation of the stationary series, the ACF, PACF plot, EACF table and BIC‬ table are generated for the purpose of identifying the set of all possible ARIMA models in‬ model specification. The objective of the present study is to ascertain the most appropriate‬ ARIMA model by fitting all possible models and calculating parameter estimates and‬ goodness-of-fit metrics.
 
+## dataset.csv
+- The raw data of historical Bitcoin index from 08/2011 to 01/2025
+
 ## R codes.R
+- Records the procedure for conducting the time series analysis throughout R
+
+## Time Series Analysis Report.pdf
+- Consolides the results of each stage and records the full time series analysis of Bitcoin's price
