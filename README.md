@@ -7,9 +7,9 @@
 ‭ performance of the Bitcoin price index (in USD) from August 2011 to January 2025. The‬
 ‭ objective of this study is to analyse the time series data of monthly prices between 2011 and 2025‬
 ‭ in order to ascertain the most appropriate ARIMA model.‬
-‭
-‬‭## Methods‬
-‭ Initially, the time series data of the monthly Bitcoin price will be examined for non-stationarity.‬
+‬‭
+## Methods‬
+ Initially, the time series data of the monthly Bitcoin price will be examined for non-stationarity.‬
 ‭ This will be achieved by employing the autocorrelation function (ACF) and the partial‬
 ‭ autocorrelation function (PACF) plots, as well as the hypothesis test. The Dickey-Fuller unit-root‬
 ‭ test, the Phillips–Perron test and the KPSS test will be utilised in this endeavour. Secondly, the‬
