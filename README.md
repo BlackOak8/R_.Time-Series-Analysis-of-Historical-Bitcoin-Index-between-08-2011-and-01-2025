@@ -1,12 +1,7 @@
 # Time Series Analysis of Historical Bitcoin Index between 08/2011 and 01/2025
 
 ## Overview‬
-‭ The cryptocurrency market has experienced significant growth in recent decades, with Bitcoin,‬
-‭ in particular, achieving the highest market capitalisation and demonstrating exponential rise.‬
-‭ The objective of this report is to undertake a thorough exploration of the monthly historical‬
-‭ performance of the Bitcoin price index (in USD) from August 2011 to January 2025. The‬
-‭ objective of this study is to analyse the time series data of monthly prices between 2011 and 2025‬
-‭ in order to ascertain the most appropriate ARIMA model.‬
+The cryptocurrency market has experienced significant growth in recent decades, with Bitcoin,‬ in particular, achieving the highest market capitalisation and demonstrating exponential rise.‬ The objective of this report is to undertake a thorough exploration of the monthly historical‬‭ performance of the Bitcoin price index (in USD) from August 2011 to January 2025. The‬ objective of this study is to analyse the time series data of monthly prices between 2011 and 2025‬ in order to ascertain the most appropriate ARIMA model.‬
 ‬‭
 ## Methods‬
  Initially, the time series data of the monthly Bitcoin price will be examined for non-stationarity.‬
